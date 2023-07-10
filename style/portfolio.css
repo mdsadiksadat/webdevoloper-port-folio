@@ -123,3 +123,27 @@ main{
     font-size: 30px;
     font font-weight: 700;
 }
+.resumi-container{
+    display: flex;
+    gap: 50px;
+}
+.resumi-iteam-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resumi-iteam-institute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+ .resumi-iteam-institute, .resumi-iteam-description{
+    color: #757575;
+}
+.resumi-container hr{
+    margin:30px ;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
