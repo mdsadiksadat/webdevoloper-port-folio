@@ -85,6 +85,9 @@ main{
     width: 1140px;
     margin: 0 auto;
 }
+.main section{
+    margin: top 130px; 
+}
 .about{
     padding: 130px;
     border-radius: 10px;
@@ -97,4 +100,26 @@ main{
 }
 .about-info{
     text-align: center;
+}
+.skills-cotainer{
+    display: flex;
+    gap: 24px;
+}
+
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+
+.skill-disctiption{
+    color: #757575;
+}
+#what-i-do-discription{
+    padding: 30px 150px;
+}
+
+.resumi-column-tittle{
+    color: #474747;
+    font-size: 30px;
+    font font-weight: 700;
 }
